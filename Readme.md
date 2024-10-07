@@ -17,7 +17,7 @@
 
 ### Overview
 
-This exercise is based on the [Grocery List 2024](..\GroceryList-2024.bacpac). For this exercise, provide your answers as a LinqPad (.linq) document. Use a single LinqPad document containing all questions (you must use Statements as the LinqPad environment). You must commit to your [repository](https://classroom.github.com/a/3sQeIYnB) after completing each question.
+This exercise is based on the [Grocery List 2024](..\GroceryList-2024.bacpac). For this exercise, provide your answers as a **single** LinqPad (.linq) document. Use a single LinqPad document containing all questions (you must use Statements as the LinqPad environment). You must commit to your repository after every 10 minutes or penalties will apply.
 
 ![ERD](grocerylist_erd.png)
 
